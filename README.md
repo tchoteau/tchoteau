@@ -1,31 +1,25 @@
-<h1 align="center">👋 Salut, moi c'est Tchoteau</h1>
+<h1 align="center">Hi, I'm Tchoteau 👋</h1>
 
 <p align="center">
   <em>Tech Lead · Supply Chain Digital Platform · OMSByAdeo</em>
 </p>
 
-<p align="center">
-  Je parle couramment Java, Spring Boot, et le jargon de la Supply Chain.<br/>
-  Je parle aussi à peu près correctement aux humains — avec un taux de succès d'environ 87 %.<br/>
-  Le reste du temps, je convaincs des équipes que "event-driven" est une philosophie de vie. ☕🌀
-</p>
-
 ---
 
-## 🎯 À propos
+## About
 
-Tech Lead chez **Adeo** sur **OMSByAdeo**, je jongle entre ownership technique, delivery, architecture et l'art subtil de transformer des user stories en exigences techniques sans perdre personne en chemin.
+Tech Lead at **Adeo** on **OMSByAdeo**, I focus on technical ownership, delivery, architecture, and engineering excellence across a distributed supply chain platform.
 
-- 🔭 En ce moment : Spring Boot 4 · Reactor · Kafka Streams · MongoDB · GraphQL · Spring AI + Gemini
-- 🤖 Side quest : Construire un serveur **MCP** pour intégrer l'IA dans les workflows OMS (support, investigation, automatisation)
-- 🛡️ Convaincu que **secure-by-design** et **FinOps** ne sont pas des contraintes, mais des super-pouvoirs
-- ⚡ Fun fact : Je réduis le MTTR ET le MTTF (Mean Time To Frustration) de mon équipe
+- 🔭 Currently working with: Spring Boot 4 · Reactor · Kafka Streams · MongoDB · GraphQL · Spring AI + Gemini
+- 🤖 Building an **MCP server** to integrate AI into OMS workflows (support, investigation, automation)
+- 🛡️ Strong advocate for **secure-by-design**, **defense-in-depth**, and **FinOps** practices
+- 📉 Focused on reducing MTTR, improving observability, and raising engineering standards
 
 ---
 
 ## 💻 Tech Stack
 
-### ☕ Languages & Frameworks
+### ☕ Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -78,13 +72,13 @@ Tech Lead chez **Adeo** sur **OMSByAdeo**, je jongle entre ownership technique, 
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🤖 IA & Observabilité
+### 🤖 AI & Observability
 
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-### 🛠️ Outils
+### 🛠️ Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
@@ -100,10 +94,4 @@ Tech Lead chez **Adeo** sur **OMSByAdeo**, je jongle entre ownership technique, 
   <img src="https://github-readme-stats.vercel.app/api?username=tchoteau&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <em>"Le code parfait n'existe pas, mais le café parfait peut y contribuer." ☕</em>
 </p>
