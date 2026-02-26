@@ -40,7 +40,7 @@ Tech Lead on **a distributed, event-driven supply chain platform** that orchestr
 
 <img src="https://github-readme-stats.vercel.app/api?username=tchoteau&show_icons=true&bg_color=0d0221&title_color=7c3aed&text_color=a78bfa&icon_color=06b6d4&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&bg_color=0d0221&title_color=7c3aed&text_color=a78bfa&icon_color=06b6d4&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&langs_count=8&bg_color=0d0221&title_color=7c3aed&text_color=a78bfa&icon_color=06b6d4&hide_border=true" alt="Top Languages" />
 
 </td>
 </tr>

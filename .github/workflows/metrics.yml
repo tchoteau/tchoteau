@@ -35,11 +35,3 @@ jobs:
           plugin_languages_limit: 8
           config_timezone: Europe/Paris
           filename: dist/metrics.languages.svg
-
-      - name: Push metrics to metrics-output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: metrics-output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
