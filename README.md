@@ -1,9 +1,7 @@
-<!-- username: tchoteau | theme: radical (pink/purple) | update typing lines via lines= param -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:7c3aed,70:06b6d4,100:0d0221&height=220&section=header&text=tchoteau&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Tech+Lead+%E2%80%A2+OMSByAdeo+%E2%80%A2+Adeo&descColor=a78bfa&descAlignY=62&descSize=22&animation=twinkling" alt="header" />
+<img width="100%" src="https://image.pollinations.ai/prompt/dark+masked+Java+developer+in+server+room+space+station+glowing+cables+holograms+metallic+reflections+galactic+threat+light+smoke+bokeh+sci-fi+film+ultra+realistic+cinematic?width=1200&height=300&seed=42&nologo=true" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Tech+Lead+%40+Adeo+%F0%9F%9A%80;Event-driven+%7C+Reactive+%7C+Distributed;Spring+Boot+%7C+Kafka+Streams+%7C+MongoDB;Building+AI+into+supply+chain+workflows+%F0%9F%A4%96;Secure-by-design+%7C+FinOps+%7C+Observability" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Tech+Lead+%F0%9F%9A%80;Event-driven+%7C+Reactive+%7C+Distributed;Spring+Boot+%7C+Kafka+Streams+%7C+MongoDB;Building+AI+into+supply+chain+workflows+%F0%9F%A4%96;Secure-by-design+%7C+FinOps+%7C+Observability" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -20,7 +18,7 @@
 
 ### 👨‍💻 About me
 
-Tech Lead at **[Adeo](https://www.adeo.com)** on **OMSByAdeo** — a distributed, event-driven supply chain platform that orchestrates order management at global scale.
+Tech Lead on **a distributed, event-driven supply chain platform** that orchestrates order management at global scale.
 
 **🔭 What I'm working on**
 - **Spring Boot 4** · Reactor · Kafka Streams · MongoDB · GraphQL
@@ -40,9 +38,9 @@ Tech Lead at **[Adeo](https://www.adeo.com)** on **OMSByAdeo** — a distributed
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tchoteau&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0d0221" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/tchoteau/tchoteau/metrics-output/metrics.overview.svg" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&theme=radical&hide_border=true&bg_color=0d0221" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/tchoteau/tchoteau/metrics-output/metrics.languages.svg" alt="Top Languages" />
 
 </td>
 </tr>
@@ -77,7 +75,7 @@ Tech Lead at **[Adeo](https://www.adeo.com)** on **OMSByAdeo** — a distributed
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tchoteau&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tchoteau&theme=radical&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies" />
 </p>
 
 ---
