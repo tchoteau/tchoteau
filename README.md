@@ -1,4 +1,4 @@
-<img width="100%" src="https://image.pollinations.ai/prompt/dark+masked+Java+developer+in+server+room+space+station+glowing+cables+holograms+metallic+reflections+galactic+threat+light+smoke+bokeh+sci-fi+film+ultra+realistic+cinematic?width=1200&height=300&seed=42&nologo=true" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7c3aed,100:06b6d4&height=300&section=header&text=tchoteau&fontColor=a78bfa&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AI&descColor=06b6d4&descAlignY=58&descSize=20" alt="header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Tech+Lead+%F0%9F%9A%80;Event-driven+%7C+Reactive+%7C+Distributed;Spring+Boot+%7C+Kafka+Streams+%7C+MongoDB;Building+AI+into+supply+chain+workflows+%F0%9F%A4%96;Secure-by-design+%7C+FinOps+%7C+Observability" alt="Typing animation" />
@@ -38,9 +38,9 @@ Tech Lead on **a distributed, event-driven supply chain platform** that orchestr
 
 ### 📊 Stats
 
-<img src="https://raw.githubusercontent.com/tchoteau/tchoteau/metrics-output/metrics.overview.svg" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tchoteau&show_icons=true&bg_color=0d0221&title_color=7c3aed&text_color=a78bfa&icon_color=06b6d4&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://raw.githubusercontent.com/tchoteau/tchoteau/metrics-output/metrics.languages.svg" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&langs_count=8&bg_color=0d0221&title_color=7c3aed&text_color=a78bfa&icon_color=06b6d4&hide_border=true" alt="Top Languages" />
 
 </td>
 </tr>
