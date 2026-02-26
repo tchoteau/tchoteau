@@ -1,25 +1,82 @@
-<h1 align="center">Hi, I'm Tchoteau 👋</h1>
+<!-- ============================================================
+     GitHub Profile README — @tchoteau
+     Username referenced in widget URLs: tchoteau
+     To update the typing lines, edit the `lines=` parameter in
+     the readme-typing-svg URL (values are URL-encoded, + = space).
+     Theme used throughout: tokyonight
+     ============================================================ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24292e&height=200&section=header&text=Tchoteau&fontSize=72&fontColor=58a6ff&fontAlignY=38&desc=Tech%20Lead%20%C2%B7%20Supply%20Chain%20%C2%B7%20OMSByAdeo&descAlignY=60&descSize=20&descColor=8b949e" alt="header" />
 
 <p align="center">
-  <em>Tech Lead · Supply Chain Digital Platform · OMSByAdeo</em>
+  <a href="https://github.com/tchoteau">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Tech+Lead+%40+Adeo;Java+%7C+Spring+Boot+%7C+Kafka+Streams;Event-Driven+Architecture;Secure-by-Design+%7C+FinOps;Building+AI-powered+OMS+workflows" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tchoteau&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tchoteau?label=Followers&style=social" alt="Followers" />
 </p>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="55%" valign="top">
 
-Tech Lead at **Adeo** on **OMSByAdeo**, I focus on technical ownership, delivery, architecture, and engineering excellence across a distributed supply chain platform.
+## 👨‍💻 About
 
-- 🔭 Currently working with: Spring Boot 4 · Reactor · Kafka Streams · MongoDB · GraphQL · Spring AI + Gemini
-- 🤖 Building an **MCP server** to integrate AI into OMS workflows (support, investigation, automation)
-- 🛡️ Strong advocate for **secure-by-design**, **defense-in-depth**, and **FinOps** practices
-- 📉 Focused on reducing MTTR, improving observability, and raising engineering standards
+Tech Lead at **[Adeo](https://www.adeo.com)** on **OMSByAdeo** — a distributed supply chain digital platform powering order management at scale.
+
+My focus spans technical ownership, architecture, delivery, and engineering excellence.
+
+**Current work**
+- 🔭 Spring Boot 4 · Reactor · Kafka Streams · MongoDB · GraphQL · Spring AI + Gemini
+- 🤖 Building an **MCP server** to embed AI into OMS workflows — support, investigation, and automation
+- 🛡️ Advocate for **secure-by-design**, **defense-in-depth**, and **FinOps** practices
+- 📉 Reducing MTTR, improving observability, and raising engineering standards
+
+**Core interests**
+- Event-driven & reactive architecture
+- Developer experience & inner-source culture
+- AI integration in operational workflows
+
+</td>
+<td width="45%" valign="top">
+
+## 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=tchoteau&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tchoteau&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 🔥 Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tchoteau&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-### ☕ Languages
+<details open>
+<summary><b>☕ Languages</b></summary>
+<br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,7 +85,11 @@ Tech Lead at **Adeo** on **OMSByAdeo**, I focus on technical ownership, delivery
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🚀 Backend
+</details>
+
+<details>
+<summary><b>🚀 Backend</b></summary>
+<br/>
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
@@ -37,7 +98,11 @@ Tech Lead at **Adeo** on **OMSByAdeo**, I focus on technical ownership, delivery
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🎨 Frontend
+</details>
+
+<details>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -46,7 +111,11 @@ Tech Lead at **Adeo** on **OMSByAdeo**, I focus on technical ownership, delivery
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 🗄️ Data & Streaming
+</details>
+
+<details>
+<summary><b>🗄️ Data & Streaming</b></summary>
+<br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -59,7 +128,11 @@ Tech Lead at **Adeo** on **OMSByAdeo**, I focus on technical ownership, delivery
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 
-### ☁️ Cloud & DevOps
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -72,13 +145,21 @@ Tech Lead at **Adeo** on **OMSByAdeo**, I focus on technical ownership, delivery
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🤖 AI & Observability
+</details>
+
+<details>
+<summary><b>🤖 AI & Observability</b></summary>
+<br/>
 
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-### 🛠️ Tools
+</details>
+
+<details>
+<summary><b>🛠️ Tools</b></summary>
+<br/>
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
@@ -86,12 +167,8 @@ Tech Lead at **Adeo** on **OMSByAdeo**, I focus on technical ownership, delivery
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</details>
+
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tchoteau&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,50:1a1b27,100:0d1117&height=100&section=footer" alt="footer" />
