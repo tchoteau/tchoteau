@@ -93,13 +93,13 @@ Tech Lead at **[Adeo](https://www.adeo.com)** on **OMSByAdeo** — a distributed
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,maven,nodejs,express,graphql&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=spring,maven,graphql&theme=dark" alt="Backend" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,materialui,jquery&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,materialui,jquery&theme=dark" alt="Frontend" />
 </p>
 
 ### Data & Streaming
@@ -113,7 +113,7 @@ Tech Lead at **[Adeo](https://www.adeo.com)** on **OMSByAdeo** — a distributed
 ### Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions&theme=dark" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,githubactions&theme=dark" alt="Cloud & DevOps" />
 </p>
 
 <sub>Also: ArgoCD · Podman · Istio</sub>
