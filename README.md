@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7c3aed,100:06b6d4&height=300&section=header&text=tchoteau&fontColor=a78bfa&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AI&descColor=06b6d4&descAlignY=58&descSize=20" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c9a84c,100:06b6d4&height=300&section=header&text=tchoteau&fontColor=c9a84c&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AI&descColor=06b6d4&descAlignY=58&descSize=20" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&lines=Tech+Lead+%F0%9F%9A%80;Event-driven+%7C+Reactive+%7C+Distributed;Spring+Boot+%7C+Kafka+Streams+%7C+MongoDB;Building+AI+into+supply+chain+workflows+%F0%9F%A4%96;Secure-by-design+%7C+FinOps+%7C+Observability" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9A84C&center=true&vCenter=true&width=640&lines=Tech+Lead+%F0%9F%9A%80;Event-driven+%7C+Reactive+%7C+Distributed;Spring+Boot+%7C+Kafka+Streams+%7C+MongoDB;Building+AI+into+supply+chain+workflows+%F0%9F%A4%96;Secure-by-design+%7C+FinOps+%7C+Observability" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tchoteau&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tchoteau&style=for-the-badge&color=c9a84c&label=PROFILE+VIEWS" alt="Profile views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/tchoteau?style=for-the-badge&color=06b6d4&labelColor=0d0221&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/tchoteau?style=for-the-badge&color=06b6d4&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
 </p>
 
 ---
@@ -38,9 +38,9 @@ Tech Lead on **a distributed, event-driven supply chain platform** that orchestr
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tchoteau&show_icons=true&bg_color=0d0221&title_color=7c3aed&text_color=a78bfa&icon_color=06b6d4&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tchoteau&show_icons=true&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9&icon_color=06b6d4&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&langs_count=8&bg_color=0d0221&title_color=7c3aed&text_color=a78bfa&icon_color=06b6d4&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&langs_count=8&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9&icon_color=06b6d4&hide_border=true" alt="Top Languages" />
 
 </td>
 </tr>
@@ -50,7 +50,7 @@ Tech Lead on **a distributed, event-driven supply chain platform** that orchestr
 
 ## 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tchoteau&theme=react-dark&bg_color=0d0221&color=a78bfa&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tchoteau&theme=react-dark&bg_color=0d1117&color=c9a84c&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 
 ---
 
@@ -67,7 +67,7 @@ Tech Lead on **a distributed, event-driven supply chain platform** that orchestr
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tchoteau&theme=radical&hide_border=true&background=0d0221&ring=7c3aed&fire=f97316&currStreakLabel=a78bfa" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tchoteau&theme=radical&hide_border=true&background=0d1117&ring=c9a84c&fire=f97316&currStreakLabel=c9a84c" alt="GitHub Streak" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Tech Lead on **a distributed, event-driven supply chain platform** that orchestr
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tchoteau&theme=radical&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=tchoteau&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies" />
 </p>
 
 ---
@@ -136,4 +136,4 @@ Tech Lead on **a distributed, event-driven supply chain platform** that orchestr
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7c3aed,100:06b6d4&height=100&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c9a84c,100:06b6d4&height=100&section=footer" alt="footer" />
