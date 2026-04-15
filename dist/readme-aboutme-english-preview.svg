@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-label="README English update preview">
+  <rect width="1400" height="900" fill="#ffffff"/>
+  <text x="40" y="70" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#111827">README - About me (English)</text>
+  <text x="40" y="130" font-family="Arial, sans-serif" font-size="24" fill="#111827">Freelance Java Tech Lead | Application Security (certification in progress).</text>
+  <text x="40" y="185" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#111827">Current mission</text>
+  <text x="40" y="235" font-family="Arial, sans-serif" font-size="22" fill="#111827">• Role / Environment translated to English</text>
+  <text x="40" y="275" font-family="Arial, sans-serif" font-size="22" fill="#111827">• Missions / Achievements translated to English</text>
+  <text x="40" y="315" font-family="Arial, sans-serif" font-size="22" fill="#111827">• Application Security / FinOps / AI Initiatives translated to English</text>
+  <text x="40" y="355" font-family="Arial, sans-serif" font-size="22" fill="#111827">• Skills section title translated to English</text>
+  <rect x="40" y="400" width="1320" height="440" fill="#f9fafb" stroke="#d1d5db"/>
+  <text x="60" y="450" font-family="Arial, sans-serif" font-size="20" fill="#111827">Preview source: README.md (lines 17-49)</text>
+  <text x="60" y="490" font-family="Arial, sans-serif" font-size="20" fill="#111827">Branch: copilot/update-profile-to-match-linkedin</text>
+  <text x="60" y="530" font-family="Arial, sans-serif" font-size="20" fill="#111827">Commit will include this preview for PR comment visibility.</text>
+</svg>
