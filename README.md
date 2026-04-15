@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c9a84c,100:06b6d4&height=300&section=header&text=tchoteau&fontColor=c9a84c&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AI&descColor=06b6d4&descAlignY=58&descSize=20" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c9a84c,100:06b6d4&height=300&section=header&text=tchoteau&fontColor=c9a84c&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelance%20Java%20Tech%20Lead%20%7C%20AppSec%20%28certif%20en%20cours%29&descColor=06b6d4&descAlignY=58&descSize=20" alt="header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9A84C&center=true&vCenter=true&width=640&lines=Tech+Lead+%F0%9F%9A%80;Event-driven+%7C+Reactive+%7C+Distributed;Spring+Boot+%7C+Kafka+Streams+%7C+MongoDB;Building+AI+into+supply+chain+workflows+%F0%9F%A4%96;Secure-by-design+%7C+FinOps+%7C+Observability" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9A84C&center=true&vCenter=true&width=640&lines=Freelance+Java+Tech+Lead+%F0%9F%9A%80;OMSByAdeo+%7C+Supply+Chain+Digital+Platform;Spring+Boot+4+%7C+Reactor+%7C+Kafka+Streams+%7C+MongoDB;Secure-by-design+%7C+Defense-in-depth+%7C+FinOps;Spring+AI+%2B+Gemini+%7C+MCP+Server+%7C+Harness+Engineering" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -14,20 +14,39 @@
 
 ### 👨‍💻 About me
 
-Tech Lead on **a distributed, event-driven supply chain platform** that orchestrates order management at global scale.
+Freelance Java Tech Lead | Sécurité applicative (certif en cours).
 
-**🔭 What I'm working on**
-- **Spring Boot 4** · Reactor · Kafka Streams · MongoDB · GraphQL
-- **Spring AI + Gemini** — embedding intelligence into OMS workflows
-- An **MCP server** for AI-assisted support, investigation & automation
+**Mission en cours**
 
-**🎯 What I care about**
-| | |
-|---|---|
-| 🛡️ | Secure-by-design & defense-in-depth |
-| 📉 | Reducing MTTR & improving observability |
-| ⚡ | Engineering excellence & DX |
-| 🌱 | Inner-source culture & knowledge sharing |
+**🎯 Rôle**
+Au sein de la Supply Chain Digital Platform, je suis Tech Lead sur OMSByAdeo (ownership technique, delivery, fiabilité).
+
+**⚙️ Environnement**
+Java 25 · Spring Boot 4 · Reactor · MongoDB · Kafka Streams · Docker · GitHub Actions (CI/CD) · Vault · JFrog · Datadog · GraphQL
+
+**🚀 Missions / Réalisations**
+- Product-minded engineering : transformation des user stories en exigences techniques, alignement PO/PM et équipes partenaires.
+- Engineering leadership : mentoring, pair programming, code reviews, montée en autonomie.
+- Architecture & scalability : choix de patterns, arbitrages, ADR, event-driven.
+- Operational excellence : dette, performance, observabilité, fiabilité prod, réduction MTTR.
+- Quality at scale : standards, tests, CI/CD, SLI/SLO, alerting, runbooks.
+- Hands-on : prise en charge des sujets complexes, unblock, amélioration continue.
+
+**🔐 Sécurité applicative**
+- Secure-by-design & defense-in-depth : revues d’architecture, contrôle des flux, moindre privilège.
+- Supply chain security : secrets (Vault), hygiène des dépendances, durcissement CI/CD.
+- Réduction du risque : checkpoints en code review, vulnérabilités, configuration hardening.
+
+**💸 FinOps**
+- Pilotage coût/valeur : cost awareness, optimisation des ressources, arbitrages perf/coût.
+
+**🧠 Initiatives IA**
+- Déploiement d’une IA générative (Spring AI + Gemini) orientée usages OMS.
+- Acculturation des équipes autour des usages IA.
+- Création d’un serveur MCP et mise en place de pratiques de Harness Engineering : structuration du contexte, garde-fous, orchestration d’outils et validations pour intégrer l’IA au cœur des workflows de support, d’investigation et d’automatisation.
+
+**🧰 Compétences**
+Spring Boot · Reactor · MongoDB · Kafka Streams · GraphQL · CI/CD · Observability (Datadog) · Vault · AppSec · FinOps · Spring AI · Gemini/Vertex AI · Ollama · MCP
 
 ---
 
