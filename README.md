@@ -12,10 +12,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="57%" valign="top">
-
 ### 👨‍💻 About me
 
 Tech Lead on **a distributed, event-driven supply chain platform** that orchestrates order management at global scale.
@@ -32,19 +28,6 @@ Tech Lead on **a distributed, event-driven supply chain platform** that orchestr
 | 📉 | Reducing MTTR & improving observability |
 | ⚡ | Engineering excellence & DX |
 | 🌱 | Inner-source culture & knowledge sharing |
-
-</td>
-<td width="43%" valign="top" align="center">
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=tchoteau&show_icons=true&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9&icon_color=06b6d4&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoteau&layout=compact&langs_count=8&bg_color=0d1117&title_color=c9a84c&text_color=c9d1d9&icon_color=06b6d4&hide_border=true" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -68,14 +51,6 @@ Tech Lead on **a distributed, event-driven supply chain platform** that orchestr
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tchoteau&theme=radical&hide_border=true&background=0d1117&ring=c9a84c&fire=f97316&currStreakLabel=c9a84c" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=tchoteau&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" alt="Trophies" />
 </p>
 
 ---
